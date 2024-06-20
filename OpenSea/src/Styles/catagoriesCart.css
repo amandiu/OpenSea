@@ -14,11 +14,6 @@
   width: 40dvh;
   height: 55dvh;
 }
-.cart :hover{
-  box-shadow: 0px 1px 2px rgb(71, 71, 71);
-  width: 42dvh;
-  height: 57dvh;
-}
 .cart {
   position: relative;
 }
